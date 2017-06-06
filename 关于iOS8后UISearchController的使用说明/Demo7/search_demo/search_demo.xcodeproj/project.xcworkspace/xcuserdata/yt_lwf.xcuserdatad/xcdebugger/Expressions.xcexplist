@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController searchVc]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.searchBartextFile">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController updateSearchResultsForSearchController:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.filteredArray">
+            </PersistentString>
+            <PersistentString
+               value = "filtes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
